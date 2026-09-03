@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asmaul-husna-memory-practice.github.io/hafalan-asmaul-husna/sitemap.xml
